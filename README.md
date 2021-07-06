@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-   <img src="./img/logo.png" alt="Logo" width="300" height="150">
+   <img src="./map.jpg" alt="Logo" width="300" height="150">
   </a>
    <p align="justify">
     In 80s Pac-Man was a video game developed by japanese developer who travels around a maze trying to eat dots and avoid hunting ghosts.
