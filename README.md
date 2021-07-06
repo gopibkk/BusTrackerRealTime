@@ -4,7 +4,7 @@
    <img src="./map.jpg" alt="Logo" width="300" height="150">
   </a>
    <p align="justify">
-    In 80s Pac-Man was a video game developed by japanese developer who travels around a maze trying to eat dots and avoid hunting ghosts.
+    Bus Tracker is a simple application that gives an overview of stops between destinations from MIT to Harvard. The application builds on data from  MBTA API mapboxgl to display the locations on the map.
      <br />
    </p>
 </p>
@@ -29,12 +29,11 @@
 
 ## About The Project
 
-Basic exercise explains the movement of a single PacMan image across the screen and reversing motion upon reaching the page limit. In addition, this exercise helps to understand the basics of DOM concepts.
-The advanced exercise explains how to add more PacMan images, control the movement in a zigzag pattern, and reverse the direction upon page limits.
+Bus Tracker is a simple application that gives an overview of stops between destinations from MIT to Harvard. The application builds on data from  MBTA API mapboxgl to display the locations on the map.
 
 ### Built With
 
-javascript and HTML
+javascript, HTML and mapbox
 
 <!-- GETTING STARTED -->
 
@@ -43,14 +42,12 @@ javascript and HTML
 To get a local copy up and running follow these simple steps.
 
 <ol>
-    <li>Download all HTML and IMG folders</li>
+    <li>Download all HTML, css and js</li>
      <li>Open the .html file in the browser</li>
 </ol>
 <!-- ROADMAP -->
 
-## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
